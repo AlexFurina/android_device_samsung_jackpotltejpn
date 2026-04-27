@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/samsung/jackpotlte
+DEVICE_PATH := device/samsung/jackpotltejpn
 
 # Bootloader
 BOARD_VENDOR := samsung
@@ -105,7 +105,7 @@ TARGET_RECOVERY_PIXEL_FORMAT := ABGR_8888
 RECOVERY_SDCARD_ON_DATA := true
 
 # TWRP specific build flags
-TW_DEVICE_VERSION := Samsung Galaxy A8 (2018)
+TW_DEVICE_VERSION := Samsung Galaxy Feel2
 TW_THEME := portrait_hdpi
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel/brightness"
 TW_MAX_BRIGHTNESS := 255
